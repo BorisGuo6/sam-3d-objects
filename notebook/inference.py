@@ -18,7 +18,7 @@ __all__ = ["Inference"]
 
 # concatenate "li" + "dra" to skip the automated string replacement
 if "li" + "dra" not in sys.modules:
-    sys.modules["li" + "dra"] = sam3d_image
+    sys.modules["li" + "dra"] = sam3d_objects
 
 
 class Inference:
