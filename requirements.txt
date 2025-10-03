@@ -37,7 +37,7 @@ jsonpickle==3.0.4
 jsonpointer==2.4
 jupyter==1.1.1
 librosa==0.10.1
-lightning==2.2.1
+lightning==2.3.3
 loguru==0.7.2
 mosaicml-streaming==0.7.5
 nvidia-cuda-nvcc-cu12==12.1.105
