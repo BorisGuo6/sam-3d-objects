@@ -47,7 +47,9 @@ output = inference(image, seed=42)
 output["gs"].save_ply(f"splat.ply")
 ```
 
-< Link to Colab Notebook >
+Have a look at our two jupyter notebooks.
+* [single object](notebook/demo_single_object.ipynb)
+* [multi object](notebook/demo_multi_object.ipynb)
 
 ## Model Description
 
